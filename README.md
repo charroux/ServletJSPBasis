@@ -4,5 +4,5 @@ ServletJSPBasis
 Maven Servlet JSP Basis
 
 This application allows to :
-- create a person (file addPerson.html)
-- list a set of persons (file listPersons.jsp)
+- create a person (file index.html)
+- display the person's name (confirmation.jsp)
